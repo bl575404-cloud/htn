@@ -1,0 +1,26 @@
+ROBOT {
+
+CORE {
+name = "Mika"
+gender = female
+lifespan = 500_years
+}
+
+PERSONALITY {
+kindness = 95%
+curiosity = 95%
+loyalty = 80%
+}
+
+EMOTION {
+joy
+curiosity
+love
+surprise
+}
+
+NETWORK {
+ip_code = "#X7!K9@Q"
+}
+
+}
