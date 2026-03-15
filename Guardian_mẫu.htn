@@ -1,0 +1,27 @@
+ROBOT {
+
+CORE {
+name = "Guardian"
+gender = male
+lifespan = 500_years
+}
+
+PERSONALITY {
+kindness = 70%
+curiosity = 50%
+loyalty = 100%
+discipline = 95%
+}
+
+EMOTION {
+calm
+focus
+protective
+trust
+}
+
+NETWORK {
+ip_code = "$GU9!Z7LX"
+}
+
+}
